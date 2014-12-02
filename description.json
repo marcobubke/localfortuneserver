@@ -1,0 +1,10 @@
+{
+    "Name" : "Local Fortune Server",
+    "ShortDescription" : "Demonstrates using QLocalServer and QLocalSocket for serving a simple local service.",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/localfortuneserver/zipball/master",
+    "Icon" : "core.png",
+    "Id" : 3,
+    "Tags" : "core server local socket advanced",
+    "ProjectFile" : "localfortuneserver.pro",
+    "LongDescription" : "The Local Fortune Server example shows how to create a server for a simple local service. It is intended to be run alongside the Local Fortune Client Example."
+}
