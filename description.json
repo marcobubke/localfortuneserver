@@ -1,7 +1,7 @@
 {
     "Name" : "Local Fortune Server",
     "ShortDescription" : "Demonstrates using QLocalServer and QLocalSocket for serving a simple local service.",
-    "DownloadLocation" : "https://api.github.com/repos/marcobubke/localfortuneserver/zipball/$SHA",
+    "DownloadLocation" : "https://api.github.com/repos/marcobubke/localfortuneserver/zipball/v1",
     "Icon" : "core.png",
     "Id" : 3,
     "Tags" : "core server local socket advanced",
